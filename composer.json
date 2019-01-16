@@ -1,0 +1,8 @@
+{
+  "name" : "gittoman/okrepo",
+  "description" : "okrepo package",
+  "license" : "proprietary",
+    "extra" : {
+		"branch-alias" : {"dev-master" : "v2.0.0-dev"}
+	}
+}
