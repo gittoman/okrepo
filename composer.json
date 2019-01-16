@@ -3,6 +3,6 @@
   "description" : "okrepo package",
   "license" : "proprietary",
     "extra" : {
-		"branch-alias" : {"dev-master" : "v2.0.0-dev"}
+		"branch-alias" : {"dev-master" : "v9.0.0-dev"}
 	}
 }
